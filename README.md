@@ -1,3 +1,1 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8B+Welcome+to+my+Page;%F0%9F%94%97+Check+out+my+Links)](https://git.io/typing-svg)
-
-<img src = "https://github-vistors-counter.onrender.com/github?username=<GladMagician910>" alt = "Visitors-Counter"/>
