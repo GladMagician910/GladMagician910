@@ -1,6 +1,4 @@
 # 💫 About Me:
-Hello there 👋
-
 Programmer 💻 
 
 Building [Widgets](https://waaag.ch) ✨
