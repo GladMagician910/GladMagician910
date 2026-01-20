@@ -1,7 +1,7 @@
 # 💫 About Me:
 Programmer 💻 
 
-Building [Widgets](https://waaag.ch) ✨
+Building <sup>Free</sup> Twitch [Widgets](https://waaag.ch)✨
 
 Content Creator 📷
 
