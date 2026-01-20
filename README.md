@@ -1,7 +1,11 @@
 # 💫 About Me:
 Hello there 👋
-<br></br>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=GladMagician910.GladMagician910&"/>
+
+Programmer 💻 
+
+Building [Widgets](https://waaag.ch) ✨
+
+Content Creator 📷
 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@primewaaag)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCpb8vKU9UAL9WIcidk4kacA) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/primewaaag) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/N5T4SXfE2N) 
